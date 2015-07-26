@@ -9,6 +9,7 @@ public class App extends Application {
 	public static PreferenceUtil pu;
 
 	public void onCreate() {
+		//908
 		app = this;
 		pu = new PreferenceUtil(this, "SCAN_PRDFERENCE_NAME");
 	}
