@@ -19,5 +19,5 @@ public class App extends Application {
 
 	public static PreferenceUtil getPreferenceUtil() {
 		return pu;
-	}
+	} 
 }
